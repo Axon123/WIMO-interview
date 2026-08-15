@@ -1,4 +1,4 @@
-# 🎙️ WIMO-interview · 面试录音复盘助手
+# 🎙️ WIMO-interview · 面试复盘助手
 
 > 上传面试录音 → AI 转写 → AI 总结复盘，9 个独立窗口（Markdown + 一键复制）。
 > 纯前端单页应用，无后端，API Key 仅存在本浏览器。
